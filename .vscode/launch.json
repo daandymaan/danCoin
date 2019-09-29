@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DanCoin",
+            "request": "launch",
+            "mainClass": "DanCoin",
+            "projectName": "coinDan"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DanCoin",
+            "request": "launch",
+            "mainClass": "app.DanCoin",
+            "projectName": "coinDan"
+        },
+        
+    ]
+}
